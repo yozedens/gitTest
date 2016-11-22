@@ -1,2 +1,2 @@
 #pragma once
-const int N = 10;
+const int N = 20;
